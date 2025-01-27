@@ -19,10 +19,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi! I'm a third-year PhD student studying applied economics at the Universtity of Minnesota.
 
-I'm interested in applied microeconomics, with a focus on labor and public economics. I am currently working on research on social safety net programs, including the Supplimental Nutrition Assistance Program (SNAP) and Earned Income Tax Credit (EITC). 
+I'm interested in applied microeconomist, with a focus on labor and public economics. I am currently working on research on social safety net programs, including the Supplimental Nutrition Assistance Program (SNAP) and Earned Income Tax Credit (EITC). 
 
-
-
-
-
+In my free time I like to read, xc ski, and bike around the twin cities.
 
