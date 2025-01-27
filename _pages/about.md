@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /about
+permalink: /about/
 subtitle: phd student @ umn
 
 profile:
