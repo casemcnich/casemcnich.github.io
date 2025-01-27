@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Applied Economics PhD student at the [University of Minnesota](https://apec.umn.edu/)
+subtitle: Applied Economics PhD student at the University of Minnesota
 
 profile:
   align: right
