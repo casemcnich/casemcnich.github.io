@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://casemcnich.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://casemcnich.github.io./sitemap.xml
