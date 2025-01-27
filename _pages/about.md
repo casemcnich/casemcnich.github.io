@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /
+permalink: /about/
 subtitle: phd student @ umn
 
 profile:
@@ -10,12 +10,13 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>317a ruttan hall<p>
-    <p>st paul, minnesota</p>
+    <p>st paul, minnesota<p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+
 
 Hi! I'm a third-year PhD student studying applied economics at the Universtity of Minnesota.
 
