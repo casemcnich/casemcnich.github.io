@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: Applied Economics PhD student at the University of Minnesota
+subtitle: phd student @ umn
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: fales # crops the image to make it circular
   more_info: >
     <p>st paul, minnesota</p>
 
@@ -16,6 +16,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I'm a PhD student studying applied economics at the Universtity of Minnesota. I'm interested in applied microeconomics, with a focus on labor and public economics. I am currently working on research on social safety net programs, including the Supplimental Nutrition Assistance Program (SNAP) and Earned Income Tax Credit (EITC)
+Hi! I'm a third-year PhD student studying applied economics at the Universtity of Minnesota. I'm interested in applied microeconomics, with a focus on labor and public economics. I am currently working on research on social safety net programs, including the Supplimental Nutrition Assistance Program (SNAP) and Earned Income Tax Credit (EITC). 
+
+
 
 
