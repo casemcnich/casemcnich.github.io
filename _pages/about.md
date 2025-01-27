@@ -7,7 +7,7 @@ subtitle: phd student @ umn
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: fales # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>st paul, minnesota</p>
 
