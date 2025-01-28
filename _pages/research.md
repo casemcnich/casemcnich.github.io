@@ -1,10 +1,10 @@
 ---
 layout: profiles
-permalink: /resarch/
+permalink: /research/
 title: research
-description: list of ongoing research
+description: list of research
 nav: false
-nav_order: 7
+nav_order: 12
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
