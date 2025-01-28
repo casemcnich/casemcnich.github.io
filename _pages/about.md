@@ -1,8 +1,8 @@
 ---
 layout: about
 title: about
-permalink: /about/
-subtitle: phd student @ umn
+permalink: /
+subtitle: <a href='#'>phd student at UMN</a>.
 
 profile:
   align: right
