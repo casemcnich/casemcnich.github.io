@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: |
     <p>317a Ruttan Hall</p>
-    <p>Department of Applied Economics</p>
+    <p>Applied Economics Department</p>
     <p>St. Paul, Minnesota</p>
 
 news: false # includes a list of news items
