@@ -25,4 +25,3 @@ I am interested in applied microeconomics, with a focus on labor and public econ
 Previously, I worked as a Research Assistant for the [Minnesota Department of Agriculture Statewide Cooperative Partnership](https://www.mda.state.mn.us/marketing/local-regional-partnership). In this role, I worked with 40+ non-profit organizations to collect and analyze baseline data on producers, supply chain partners, and consumers in Minnesota. These data helped supplement the USDA’s National Agricultural Statistics Service Agricultural Census with data on farmers and markets not fully represented in the Ag Census, including emerging farmers.
 
 In my free time, I enjoy reading, cross-country skiing, and biking around the Twin Cities.
-
