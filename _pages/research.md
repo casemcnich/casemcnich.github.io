@@ -9,7 +9,7 @@ nav_order: 12
 
 ## research
 
-**McNichols, C., Ambrozek, C., and Beatty, T.** (2024). [*SNAP Participation Among Agricultural Workers Impacted by Seasonal Employment*](https://poverty.ucdavis.edu/sites/main/files/file-attachments/beatty_snap_churn_brief.pdf?1732881580). Center for Poverty and Inequality Research, University of California.
+**McNichols, C., Ambrozek, C., and Beatty, T.** (2024). [SNAP Participation Among Agricultural Workers Impacted by Seasonal Employment](https://poverty.ucdavis.edu/sites/main/files/file-attachments/beatty_snap_churn_brief.pdf?1732881580). Center for Poverty and Inequality Research, University of California.
 
 **Peterson, H. H. & McNichols, C.** (2023). *Statewide Cooperative Partnership for Local and Regional Markets - Baseline Surveys 2022*. Retrieved from the Data Repository for the University of Minnesota, [https://doi.org/10.13020/vz18-2k54](https://doi.org/10.13020/vz18-2k54).
 
