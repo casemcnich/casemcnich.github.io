@@ -13,10 +13,11 @@ nav_order: 12
 
 **McNichols, C. & Peterson, H. H.** *2017 State Level Food System Indicators*. Available at [https://hfhl.umn.edu/statefoodindicators](https://hfhl.umn.edu/statefoodindicators).
 
+---
+## outreach work
+
 **McNichols, C., J. Harren, and H. H. Peterson.** *Regulation, Promotion, Data: Statewide Cooperative Partnership for Improved Opportunities and Performance in Local and Regional Markets: Review of Existing Literature*. August 2021. Available at [https://www.mda.state.mn.us/academic-literature-review-summary](https://www.mda.state.mn.us/academic-literature-review-summary).
 
----
-## outreach presentations
 
 **Seybold, K., H. H. Peterson, and C. McNichols.** [“Beyond the Ag Census: Data and Development Strategies for Minnesota’s Local and Regional Markets.”](https://www.youtube.com/watch?v=Oy3nW07G6ag&t=102s) Statewide Cooperative Partnership for Regional and Local Markets webinar, December 14, 2023.
 
