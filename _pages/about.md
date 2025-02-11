@@ -20,7 +20,7 @@ social: false # includes social icons at the bottom of the page
 
 Hi! I am a PhD student studying Applied Economics at the University of Minnesota.
 
-I am interested in applied microeconomics, with a focus on labor and public economics. Broadly, I research topics related to migration, labor force mobility, and social safety net programs. Currently, I am researching the administrative burdens of the Supplemental Nutrition Assistance Program (SNAP) on farmworkers, who have seasonal employment patterns.
+I am interested in applied microeconomics, with a focus on labor and public economics. Broadly, I research topics related to immigration, labor force mobility, and social safety net programs. Currently, I am working on research about the labor market impacts of immigration enforcement.
 
 Previously, I worked as a Research Assistant for the [Minnesota Department of Agriculture Statewide Cooperative Partnership](https://www.mda.state.mn.us/marketing/local-regional-partnership). In this role, I worked with 40+ non-profit organizations to collect and analyze baseline data on producers, supply chain partners, and consumers in Minnesota. These data helped supplement the USDA’s National Agricultural Statistics Service Agricultural Census with data on farmers and markets not fully represented in the Ag Census, including emerging farmers.
 
