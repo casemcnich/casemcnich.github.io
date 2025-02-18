@@ -2,16 +2,16 @@
 layout: page
 permalink: /research/
 title: research
-description: 
+description:
 nav: true
 nav_order: 12
 ---
 
 **McNichols, C., Ambrozek, C., and Beatty, T.** (2024). [SNAP Participation Among Agricultural Workers Impacted by Seasonal Employment](https://poverty.ucdavis.edu/sites/main/files/file-attachments/beatty_snap_churn_brief.pdf?1732881580). Center for Poverty and Inequality Research, University of California.
 
-**Peterson, H. H. & McNichols, C.** (2023). *Statewide Cooperative Partnership for Local and Regional Markets - Baseline Surveys 2022*. Retrieved from the Data Repository for the University of Minnesota, [https://doi.org/10.13020/vz18-2k54](https://doi.org/10.13020/vz18-2k54).
+**Peterson, H. H. & McNichols, C.** (2023). _Statewide Cooperative Partnership for Local and Regional Markets - Baseline Surveys 2022_. Retrieved from the Data Repository for the University of Minnesota, [https://doi.org/10.13020/vz18-2k54](https://doi.org/10.13020/vz18-2k54).
 
-**McNichols, C. & Peterson, H. H.** *2017 State Level Food System Indicators*. Available at [https://hfhl.umn.edu/statefoodindicators](https://hfhl.umn.edu/statefoodindicators).
+**McNichols, C. & Peterson, H. H.** _2017 State Level Food System Indicators_. Available at [https://hfhl.umn.edu/statefoodindicators](https://hfhl.umn.edu/statefoodindicators).
 
 ---
 ## outreach work
