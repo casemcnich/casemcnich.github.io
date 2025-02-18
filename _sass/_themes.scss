@@ -5,14 +5,14 @@
 @use "sass:color";
 
 :root {
-  --global-bg-color: #deb3ad;
+  --global-bg-color: #FBDADE;
   --global-code-bg-color: #{$code-bg-color-light};
   --global-text-color: #{$black-color};
-  --global-text-color-light: #deb3ad;
-  --global-theme-color: #663635;
-  --global-hover-color: #663635;
-  --global-hover-text-color: #{#deb3ad};
-  --global-footer-bg-color: #deb3ad;
+  --global-text-color-light: #FBDADE;
+  --global-theme-color: #E97290;
+  --global-hover-color: #e97290;
+  --global-hover-text-color: #{#E97290};
+  --global-footer-bg-color: #FBDADE;
   --global-footer-text-color: #{$grey-color-light};
   --global-footer-link-color: #{$white-color};
   --global-distill-app-color: #{$grey-color};
@@ -80,8 +80,8 @@ html[data-theme="dark"] {
   --global-code-bg-color: #{$code-bg-color-dark};
   --global-text-color: #{$grey-color-light};
   --global-text-color-light: #{$grey-color};
-  --global-theme-color: #e73087;
-  --global-hover-color: #e73087;
+  --global-theme-color: #EF6C79;
+  --global-hover-color: #EF6C79;
   --global-hover-text-color: #{$white-color};
   --global-footer-bg-color: #424246;
   --global-footer-text-color: #{$grey-color-dark};
