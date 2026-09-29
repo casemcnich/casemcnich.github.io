@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hi! I am a PhD student studying Applied Economics at the University of Minnesota.
+Hi! I am a PhD candidate in the Applied Economics department at the University of Minnesota.
 
 I am interested in applied microeconomics, with a focus on labor and public economics. Broadly, I research topics related to immigration, labor force mobility, and [the Supplimental Nutrition Assistance Program](https://poverty.ucdavis.edu/sites/main/files/file-attachments/beatty_snap_churn_brief.pdf?1732881580). Currently, I am working on research about the labor market impacts of immigration enforcement.
 
