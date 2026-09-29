@@ -7,13 +7,13 @@ nav: true
 nav_order: 12
 ---
 
-**McNichols, Casey J. & Ambrozek, Charlotte E. & Beatty, Timothy K.M.** (2026). [Agricultural workers’ employment cycles and churn in the Supplemental Nutrition Assistance Program: A descriptive analysis]. *Food Policy*, Elsevier, vol. 142(C).
+**McNichols, Casey J. & Ambrozek, Charlotte E. & Beatty, Timothy K.M.** (2026). [Agricultural workers’ employment cycles and churn in the Supplemental Nutrition Assistance Program: A descriptive analysis]. _Food Policy_, Elsevier, vol. 142(C).
 
 **McNichols, C., Ambrozek, C., and Beatty, T.** (2024). [SNAP Participation Among Agricultural Workers Impacted by Seasonal Employment](https://poverty.ucdavis.edu/sites/main/files/file-attachments/beatty_snap_churn_brief.pdf?1732881580). Center for Poverty and Inequality Research, University of California.
 
-**Peterson, H. H. & McNichols, C.** (2023). *Statewide Cooperative Partnership for Local and Regional Markets - Baseline Surveys 2022*. Retrieved from the Data Repository for the University of Minnesota, [https://doi.org/10.13020/vz18-2k54](https://doi.org/10.13020/vz18-2k54).
+**Peterson, H. H. & McNichols, C.** (2023). _Statewide Cooperative Partnership for Local and Regional Markets - Baseline Surveys 2022_. Retrieved from the Data Repository for the University of Minnesota, [https://doi.org/10.13020/vz18-2k54](https://doi.org/10.13020/vz18-2k54).
 
-**McNichols, C. & Peterson, H. H.** *2017 State Level Food System Indicators*. Available at [https://hfhl.umn.edu/statefoodindicators](https://hfhl.umn.edu/statefoodindicators).
+**McNichols, C. & Peterson, H. H.** _2017 State Level Food System Indicators_. Available at [https://hfhl.umn.edu/statefoodindicators](https://hfhl.umn.edu/statefoodindicators).
 
 ---
 
@@ -27,7 +27,7 @@ nav_order: 12
 
 ## Outreach Work
 
-**McNichols, C., J. Harren, and H. H. Peterson.** *Regulation, Promotion, Data: Statewide Cooperative Partnership for Improved Opportunities and Performance in Local and Regional Markets: Review of Existing Literature*. August 2021. Available at [https://www.mda.state.mn.us/academic-literature-review-summary](https://www.mda.state.mn.us/academic-literature-review-summary).
+**McNichols, C., J. Harren, and H. H. Peterson.** _Regulation, Promotion, Data: Statewide Cooperative Partnership for Improved Opportunities and Performance in Local and Regional Markets: Review of Existing Literature_. August 2021. Available at [https://www.mda.state.mn.us/academic-literature-review-summary](https://www.mda.state.mn.us/academic-literature-review-summary).
 
 **Seybold, K., H. H. Peterson, and C. McNichols.** [“Beyond the Ag Census: Data and Development Strategies for Minnesota’s Local and Regional Markets.”](https://www.youtube.com/watch?v=Oy3nW07G6ag&t=102s) Statewide Cooperative Partnership for Regional and Local Markets webinar, December 14, 2023.
 

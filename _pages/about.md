@@ -22,6 +22,6 @@ Hi! I am a PhD student studying Applied Economics at the University of Minnesota
 
 I am interested in applied microeconomics, with a focus on labor and public economics. Broadly, I research topics related to immigration, labor force mobility, and [the Supplimental Nutrition Assistance Program](https://poverty.ucdavis.edu/sites/main/files/file-attachments/beatty_snap_churn_brief.pdf?1732881580). Currently, I am working on research about the labor market impacts of immigration enforcement.
 
-Previously, I worked as a Research Assistant for the [Minnesota Department of Agriculture Statewide Cooperative Partnership](https://www.mda.state.mn.us/marketing/local-regional-partnership) to collect and analyze baseline data to  supplement the USDA’s National Agricultural Statistics Service Agricultural Census with data on farmers and markets not fully represented in the Agricultural Census, including emerging farmers.
+Previously, I worked as a Research Assistant for the [Minnesota Department of Agriculture Statewide Cooperative Partnership](https://www.mda.state.mn.us/marketing/local-regional-partnership) to collect and analyze baseline data to supplement the USDA’s National Agricultural Statistics Service Agricultural Census with data on farmers and markets not fully represented in the Agricultural Census, including emerging farmers.
 
 In my free time, I enjoy reading, cross-country skiing, and biking around the Twin Cities.
