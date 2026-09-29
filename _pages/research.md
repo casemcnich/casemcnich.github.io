@@ -21,11 +21,11 @@ nav_order: 12
 [The Labor Market Costs of Immigration Enforcement: Evidence from Restaurants and Mobile Data].
 
 [When I’m 64: The Effect of the Earned Income Tax Credit on Near Retirement Adults].
+
 ---
 ## outreach work
 
-**McNichols, C., J. Harren, and H. H. Peterson.** *Regulation, Promotion, Data: Statewide Cooperative Partnership for Improved Opportunities and Performance in Local and Regional Markets: Review of Existing Literature*. August 2021. Available at [https://www.mda.state.mn.us/academic-literature-review-summary](https://www.mda.state.mn.us/academic-literature-review-summary).
-
+**McNichols, C., J. Harren, and H. H. Peterson.** _Regulation, Promotion, Data: Statewide Cooperative Partnership for Improved Opportunities and Performance in Local and Regional Markets: Review of Existing Literature_. August 2021. Available at [https://www.mda.state.mn.us/academic-literature-review-summary](https://www.mda.state.mn.us/academic-literature-review-summary).
 
 **Seybold, K., H. H. Peterson, and C. McNichols.** [“Beyond the Ag Census: Data and Development Strategies for Minnesota’s Local and Regional Markets.”](https://www.youtube.com/watch?v=Oy3nW07G6ag&t=102s) Statewide Cooperative Partnership for Regional and Local Markets webinar, December 14, 2023.
 
