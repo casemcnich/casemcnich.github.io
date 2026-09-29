@@ -18,9 +18,9 @@ nav_order: 12
 ---
 ## work in progress
 
-The Labor Market Costs of Immigration Enforcement: Evidence from Restaurants and Mobile Data
+[The Labor Market Costs of Immigration Enforcement: Evidence from Restaurants and Mobile Data].
 
-When I’m 64: The Effect of the Earned Income Tax Credit on Near Retirement Adults
+[When I’m 64: The Effect of the Earned Income Tax Credit on Near Retirement Adults].
 ---
 ## outreach work
 
