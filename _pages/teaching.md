@@ -7,6 +7,16 @@ nav: false
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## courses taught
+ApEc R Review Course
+Summer 2026
+Instructed a 1 week intensive R review class for incoming PhD students
 
-Organize your courses by years, topics, or universities, however you like!
+
+## teaching assistant
+ApEc 8214: Causal Inference
+Spring 2026
+ApEc 2025-2026 Teaching Assistant Award for 5000/8000 Level Classes
+
+ApEc 3003: Applied Econometrics 
+Spring 2023, Fall 2024
